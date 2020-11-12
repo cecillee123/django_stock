@@ -1,3 +1,5 @@
+# copyright (C) 2020 Cecil Lee All Rights Reserved
+
 from django.shortcuts import render, redirect
 # Add in import for database, models, stockform, messages
 from .models import Stock
